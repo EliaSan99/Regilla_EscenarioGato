@@ -89,7 +89,7 @@ function app()
 
    }
    canvas.addEventListener("mousemove",gato.seleccionar);
-   gato.play(true);
+   gato.play(false);
 }
 
 window.onload = function() 
